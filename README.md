@@ -1,2 +1,0 @@
-# pzh.dk
-Personal website
